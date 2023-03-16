@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Frutas.Api.props" />
+</Project>
