@@ -8,8 +8,6 @@ namespace Frutas.Core.Data
         public DataBaseContext(DbContextOptions<DataBaseContext> opts) : base(opts)
         {
         }
-
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

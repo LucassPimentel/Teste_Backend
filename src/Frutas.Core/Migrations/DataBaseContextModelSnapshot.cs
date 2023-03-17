@@ -41,7 +41,7 @@ namespace Frutas.Core.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Frutas");
+                    b.ToTable("Frutas", (string)null);
 
                     b.HasData(
                         new

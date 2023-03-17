@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
+using Frutas.Core.Models;
+using Frutas.Core.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FrutasBackEnnd.Controllers
 {
@@ -6,11 +9,25 @@ namespace FrutasBackEnnd.Controllers
     [Route("v1/[controller]")]
     public class FruitController : Controller
     {
+        private readonly FruitService _fruitService;
 
-        public IActionResult GetAllFruits()
+        public FruitController(FruitService fruitService)
         {
-            return Ok();
+            _fruitService = fruitService;
         }
 
+        [HttpGet("GetFruits")]
+        public IActionResult GetAllFruits()
+        {
+            var fruits = _fruitService.GetAllFruits();
+            return Ok(fruits);
+        }
+
+        [HttpGet("GetFruit/{Id}")]
+        public IActionResult GetFruitById(int Id)
+        {
+            var fruit = _fruitService.GetFruitById(Id);
+            return Ok(fruit);
+        }
     }
 }

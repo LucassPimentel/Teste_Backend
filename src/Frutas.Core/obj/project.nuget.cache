@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "mw5XSoEf7FFCevQ0AbT988I6Ujfqr+kZ1DqK5c/p3rVTgQmVZJtTRc3SKsyfQMHYdwN0wzsgWQMD0yRa+KaCJQ==",
+  "dgSpecHash": "6UPEf/pDLsxYTtF+ZtIvIu4rDvhQ5uuVL0c85qeJuVKN9TUp8RXNWkoDj2C7MB4Shgl5XSjj2o5JbY9xhvlIjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lupdsilva\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\lupdsilva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
