@@ -20,9 +20,22 @@ builder.Services.AddTransient<FruitService, FruitService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+builder.Services.AddCors(opts =>
+{
+    opts.AddPolicy(name: "MyAllowSpecficOrigins",
+        policy =>
+        {
+            policy.AllowAnyMethod();
+            policy.AllowAnyOrigin();
+            policy.AllowAnyHeader();
+        });
+});
+
 var app = builder.Build();
 
 app.UseHttpsRedirection();
+
+app.UseCors("MyAllowSpecficOrigins");
 
 app.UseAuthorization();
 
