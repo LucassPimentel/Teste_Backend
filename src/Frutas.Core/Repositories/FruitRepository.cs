@@ -13,11 +13,6 @@ namespace Frutas.Core.Repositories
             _dbContext = dbContext;
         }
 
-        public FruitModel GetFruitById(int id)
-        {
-            return _dbContext.Frutas.Find(id);
-        }
-
         public List<FruitModel> GetFruits()
         {
             return _dbContext.Frutas.ToList();

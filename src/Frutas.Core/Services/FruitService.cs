@@ -29,21 +29,5 @@ namespace Frutas.Core.Services
                 throw;
             }
         }
-
-        public FruitReadDto GetFruitById(int Id)
-        {
-            try
-            {
-                var fruit = _fruitRepository.GetFruitById(Id);
-
-                var fruitReadDto = _mapper.Map<FruitReadDto>(fruit);
-
-                return fruitReadDto;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-        }
     }
 }

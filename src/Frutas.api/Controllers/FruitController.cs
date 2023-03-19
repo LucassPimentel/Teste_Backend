@@ -22,12 +22,5 @@ namespace FrutasBackEnnd.Controllers
             var fruits = _fruitService.GetAllFruits();
             return Ok(fruits);
         }
-
-        [HttpGet("GetFruit/{Id}")]
-        public IActionResult GetFruitById(int Id)
-        {
-            var fruit = _fruitService.GetFruitById(Id);
-            return Ok(fruit);
-        }
     }
 }
