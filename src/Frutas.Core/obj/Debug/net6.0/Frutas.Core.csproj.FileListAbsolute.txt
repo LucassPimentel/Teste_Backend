@@ -26,3 +26,17 @@ C:\Users\lupdsilva\source\repos\FrutasBackEnnd\src\Frutas.Core\obj\Debug\net6.0\
 C:\Users\lupdsilva\source\repos\FrutasBackEnnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.pdb
 C:\Users\lupdsilva\source\repos\FrutasBackEnnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.genruntimeconfig.cache
 C:\Users\lupdsilva\source\repos\FrutasBackEnnd\src\Frutas.Core\obj\Debug\net6.0\ref\Frutas.Core.dll
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\bin\Debug\net6.0\Frutas.Core.deps.json
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\bin\Debug\net6.0\Frutas.Core.runtimeconfig.json
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\bin\Debug\net6.0\Frutas.Core.dll
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\bin\Debug\net6.0\Frutas.Core.pdb
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.csproj.AssemblyReference.cache
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.AssemblyInfoInputs.cache
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.AssemblyInfo.cs
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.csproj.CoreCompileInputs.cache
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.dll
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\refint\Frutas.Core.dll
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.pdb
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\Frutas.Core.genruntimeconfig.cache
+C:\Users\lupdsilva\source\repos\FrutasBackEnd\src\Frutas.Core\obj\Debug\net6.0\ref\Frutas.Core.dll

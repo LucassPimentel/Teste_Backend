@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\Frutas.Api.csproj": {}
+    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\Frutas.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\Frutas.Api.csproj": {
+    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\Frutas.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\Frutas.Api.csproj",
+        "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\Frutas.Api.csproj",
         "projectName": "Frutas.Api",
-        "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\Frutas.Api.csproj",
+        "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\Frutas.Api.csproj",
         "packagesPath": "C:\\Users\\lupdsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\obj\\",
+        "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lupdsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj": {
-                "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj"
+              "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj": {
+                "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj": {
+    "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj",
+        "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj",
         "projectName": "Frutas.Core",
-        "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj",
+        "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj",
         "packagesPath": "C:\\Users\\lupdsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\obj\\",
+        "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lupdsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",

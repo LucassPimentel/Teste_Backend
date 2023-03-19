@@ -3575,11 +3575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj",
+      "projectUniqueName": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj",
       "projectName": "Frutas.Core",
-      "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\Frutas.Core.csproj",
+      "projectPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\Frutas.Core.csproj",
       "packagesPath": "C:\\Users\\lupdsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.Core\\obj\\",
+      "outputPath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lupdsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",

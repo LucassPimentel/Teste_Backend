@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cw/VFESPYOWWvZP1aZseipi1/SuDb7G/4bPHAZYKbtqDm99Nf/axqAdbsaB6dpC+PjhajpL51K4y6Qr/u6oetg==",
+  "dgSpecHash": "9kzuRQ23q+5y/PMDZ/hbJNFauPIYUEPHdaiUtlbdY+eRVfNeTKqSqqXr9/1pitFoIwFtKPYAm9aZZ/t+IHQFWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnnd\\src\\Frutas.api\\Frutas.Api.csproj",
+  "projectFilePath": "C:\\Users\\lupdsilva\\source\\repos\\FrutasBackEnd\\src\\Frutas.api\\Frutas.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lupdsilva\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\lupdsilva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
